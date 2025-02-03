@@ -137,6 +137,6 @@ We welcome contributions! Here's how:
 - Code editor (VS Code recommended)
 
 <p align="center">
-  Made with ❤️ by Your Name
+  Made with ❤️ by Mahesh
 </p>
 
