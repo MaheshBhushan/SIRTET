@@ -136,16 +136,7 @@ We welcome contributions! Here's how:
 - Git
 - Code editor (VS Code recommended)
 
-### Development Installation
-```bash
-# Clone repository
-git clone https://github.com/yourusername/upside-down-tetris.git
-
-# Create and activate virtual environment
-python -m venv venv
-source venv/bin/activate  # or `venv\Scripts\activate` on Windows
-
-# Install development dependencies
-pip install -r requirements.txt
-```
+<p align="center">
+  Made with ❤️ by Your Name
+</p>
 
