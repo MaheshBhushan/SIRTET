@@ -1,4 +1,6 @@
 # SIRTET
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 # 🎮 Upside-Down Tetris
 
 A creative twist on the classic Tetris game built with Python and Pygame, where blocks rise from the bottom instead of falling from the top! Experience Tetris in a whole new way with this unique reverse-gravity mechanic.
@@ -139,4 +141,3 @@ We welcome contributions! Here's how:
 <p align="center">
   Made with ❤️ by Mahesh
 </p>
-
